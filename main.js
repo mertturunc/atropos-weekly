@@ -1,5 +1,3 @@
-//npm command: 'npm install --save dotenv twit unique-random-array snyk'
-
 // twitter library
 const Twit = require('twit')
 
