@@ -6,7 +6,7 @@
   "dependencies": {
     "dotenv": "^6.1.0",
     "twit": "^2.2.11",
-    "xmldom": "^0.1.27",
+    "xmldom": "^0.8.4",
     "xpath": "^0.0.27"
   },
   "devDependencies": {},
